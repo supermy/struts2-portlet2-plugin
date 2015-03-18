@@ -1,0 +1,1 @@
+struts2-portlet2-plugin
